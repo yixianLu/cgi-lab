@@ -1,0 +1,28 @@
+Question 1:
+print(os.environ)
+
+Question 2:
+QUERY_STRING
+
+Question 3:
+HTTP_USER_AGENT
+
+Question 4:
+POST data is handled by FieldStorage class
+
+Question 5:
+
+Content-Type: text/html
+Set-Cookie: username=...
+Set-Cookie: password=...
+
+Question 6:
+password:<cookie-password>
+username:<cookie-name>
+
+Question 7: 
+Store users' browsing history and pirvacy information like account name and password
+
+Question 8:
+https://github.com/yixianLu/cgi-lab
+
